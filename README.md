@@ -1,3 +1,3 @@
 # Programming methods
 
-Folders contain my solutions to Prolog and Haskell tasks. 
+Folders contain my solutions to Ocaml, Prolog and Haskell tasks. 
