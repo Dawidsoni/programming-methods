@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Z2/Dictionary.cs">
+    <Files>
+      <File FileName="Z2/DictionaryNode.cs" Line="46" Column="5" />
+      <File FileName="Z2/Dictionary.cs" Line="28" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

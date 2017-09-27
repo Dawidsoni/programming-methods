@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Z1/LinkedList.cs">
+    <Files>
+      <File FileName="Z1/LinkedList.cs" Line="12" Column="4" />
+      <File FileName="Z1/ListNode.cs" Line="6" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

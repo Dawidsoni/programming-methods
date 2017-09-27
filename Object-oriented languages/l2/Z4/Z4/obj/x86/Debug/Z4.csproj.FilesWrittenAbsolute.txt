@@ -1,0 +1,5 @@
+/Users/dawidwegner/Work/PO/l2/Z4/Z4/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/dawidwegner/Work/PO/l2/Z4/Z4/bin/Debug/Z4.exe.mdb
+/Users/dawidwegner/Work/PO/l2/Z4/Z4/bin/Debug/Z4.exe
+/Users/dawidwegner/Work/PO/l2/Z4/Z4/obj/x86/Debug/Z4.exe
+/Users/dawidwegner/Work/PO/l2/Z4/Z4/obj/x86/Debug/Z4.exe.mdb

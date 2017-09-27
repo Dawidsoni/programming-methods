@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{004DC18D-13FD-41C0-BEA9-75E26C906E82}|Default">
+  <MonoDevelop.Ide.ItemProperties.Z3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Z3/Program.cs">
+    <Files>
+      <File FileName="Z3/IGraph.cs" Line="10" Column="27" />
+      <File FileName="Z3/ListGraph.cs" Line="47" Column="23" />
+      <File FileName="Z3/MatrixGraph.cs" Line="81" Column="4" />
+      <File FileName="Z3/Program.cs" Line="64" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,5 @@
+/Users/dawidwegner/Work/PO/l3/Z2/Z2/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile111.AssemblyAttribute.cs
+/Users/dawidwegner/Work/PO/l3/Z2/Z2/bin/Debug/Z2.dll.mdb
+/Users/dawidwegner/Work/PO/l3/Z2/Z2/bin/Debug/Z2.dll
+/Users/dawidwegner/Work/PO/l3/Z2/Z2/obj/Debug/Z2.dll
+/Users/dawidwegner/Work/PO/l3/Z2/Z2/obj/Debug/Z2.dll.mdb
